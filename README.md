@@ -1,6 +1,7 @@
+```markdown
 # ZoomAutomation Project
 
-> **Note:** This project is designed for Windows.
+> :sparkles: **Note:** This project is designed for Windows.
 
 This project allows for automatic joining and leaving of Zoom meetings using the provided `main.py` script and the functions included in `zoomFuncs.py`. You will need to add your own Zoom meeting codes and passwords to make it work.
 
@@ -23,14 +24,11 @@ To get started with the ZoomAutomation project, follow these steps:
 3. Open `main.py` and update the following variables with your Zoom meeting information:
 
    ```python
-   classCode = 
-       "YOUR_MEETING_CODE"
-       # Add more meeting codes as needed
-
-   classPass = 
-       "YOUR_MEETING_PASSWORD_"
-       # Add more meeting passwords as needed
+   classCode = "YOUR_MEETING_CODE"
+   classPass = "YOUR_MEETING_PASSWORD"
    ```
+
+   Add more meeting codes and passwords as needed.
 
 4. Run the `main.py` script to start the ZoomAutomation:
 
