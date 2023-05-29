@@ -29,6 +29,7 @@ To get started with the ZoomAutomation project, follow these steps:
 
    classPass = 
        "YOUR_MEETING_PASSWORD_"
+       # Add more meeting passwords as needed
    ```
 
 4. Run the `main.py` script to start the ZoomAutomation:
