@@ -1,4 +1,3 @@
-```markdown
 # ZoomAutomation Project
 
 > :sparkles: **Note:** This project is designed for Windows.
