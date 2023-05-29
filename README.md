@@ -10,19 +10,22 @@ To get started with the ZoomAutomation project, follow these steps:
 
 1. Clone the project repository:
 
-   ```bash
+   ```
+   bash
    git clone https://github.com/your-username/ZoomAutomation.git
    ```
 
 2. Install the required dependencies:
 
-   ```bash
+   ```
+   bash
    pip install -r requirements.txt
    ```
 
 3. Open `main.py` and update the following variables with your Zoom meeting information:
 
-   ```python
+   ```
+   python
    classCode = 
        "YOUR_MEETING_CODE"
        # Add more meeting codes as needed
@@ -33,7 +36,8 @@ To get started with the ZoomAutomation project, follow these steps:
 
 4. Run the `main.py` script to start the ZoomAutomation:
 
-   ```bash
+   ```
+   bash
    python main.py
    ```
 
@@ -68,6 +72,7 @@ The following dependencies are required for the project:
 
 You can install the required dependencies by running:
 
-```bash
+```
+bash
 pip install -r requirements.txt
 ```
