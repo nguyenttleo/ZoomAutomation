@@ -14,7 +14,7 @@ classCode = 'YOUR-CODE'
 classPass = 'YOUR-PASS'
 
 schedule.every().wednesday.at('11:04').do(joinMeeting(classCode, classPass))
-schedule.every().wednesday.at('11:04').do(leaveMeeting())
+schedule.every().wednesday.at('11:54').do(leaveMeeting())
 # schedule.every().tuesday.at('11:33').do(joinMeeting(classCode, classPass))
 # schedule.every().thursday.at('11:33').do(joinMeeting(classCode, classPass))
 # schedule.every().friday.at('11:33').do(joinMeeting(classCode, classPass))
