@@ -11,7 +11,7 @@ To get started with the ZoomAutomation project, follow these steps:
 1. Clone the project repository:
 
    ```bash
-   git clone https://github.com/your-username/ZoomAutomation.git
+   git clone https://github.com/nguyenttleo/ZoomAutomation.git
    ```
 
 2. Install the required dependencies:
